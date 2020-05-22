@@ -1,0 +1,7 @@
+print()
+n = int(input())
+i = (n + n)
+i = (i * n)
+i = (i - n)
+i = (i / n)
+print(int(i))
